@@ -489,7 +489,7 @@
   },
   {
     "id": "esx",
-    "symbol": "ESX",
+    "symbol": "EX",
     "name": "EstateX",
     "image": "/logos/assets/esx.png",
     "is_xERC20": true,
